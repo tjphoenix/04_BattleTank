@@ -7,3 +7,5 @@ Here we are learning how a second commit will change the file and we can put in 
 * 01 Tips & Tricks
 * 02 Game Design Doc Video Watched
 * 03 Cloning github to local machine
+* 04 Initial Project Files Created
+* 05 Committing to Laptop
